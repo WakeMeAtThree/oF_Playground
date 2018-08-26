@@ -5,5 +5,5 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] [Philosophy](https://openframeworks.cc/ofBook/chapters/of_philosophy.html) finished on 2018-August-25
   - [X] [C++ Language Basics abridged](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html) finished on 2018-August-25
   - [X] [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) finished on 2018-August-25
-  - [X] Reviewed [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) finished on 2018-August-26
+  - [X] Reviewed [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) again on 2018-August-26
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
