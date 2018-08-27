@@ -8,5 +8,6 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) finished on 2018-August-25
   - [X] Reviewed [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) again on 2018-August-26
   - [X] [Porting Processing Example to OpenFrameworks Video](https://vimeo.com/49204516) finished on 2018-August-27
-  - [X] Installed Code::Blocks and spent some time familiarizing myself with Cpp's new quirks.
+  - [X] Installed Code::Blocks and spent some time familiarizing myself with Cpp's new quirks on 2018-August-27.
+  - [ ] Translate examples between java, python, and cpp to make it easier for myself to draw parallels where possible.
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
