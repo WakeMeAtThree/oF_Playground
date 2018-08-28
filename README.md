@@ -9,5 +9,5 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] Reviewed [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) again on 2018-August-26
   - [X] [Porting Processing Example to OpenFrameworks Video](https://vimeo.com/49204516) finished on 2018-August-27
   - [X] Installed Code::Blocks and spent some time familiarizing myself with Cpp's new quirks on 2018-August-27.
-  - [ ] Translate examples between java, python, and cpp to make it easier for myself to draw parallels where possible.
+  - [X] One last round at the unabridged basics, pointers (passing by value, passing by reference, changing inplace). Installed VS Community Studio 2017 to get started with openFrameworks. (Note: once you get through the basic quirks, things seem much more familiar, especially if you're coming from Java)
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
