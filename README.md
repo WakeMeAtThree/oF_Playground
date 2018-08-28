@@ -9,5 +9,6 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] Reviewed [C++ Language Basics unabridged](https://github.com/openframeworks/ofBook/blob/master/chapters/cplusplus_basics/unabridged.md) again on 2018-August-26
   - [X] [Porting Processing Example to OpenFrameworks Video](https://vimeo.com/49204516) finished on 2018-August-27
   - [X] Installed Code::Blocks and spent some time familiarizing myself with Cpp's new quirks on 2018-August-27.
-  - [X] One last round at the unabridged basics, pointers (passing by value, passing by reference, changing inplace). Installed VS Community Studio 2017 to get started with openFrameworks on 2018-August-28. 
+  - [X] One last round at the unabridged basics, pointers (passing by value, passing by reference, changing inplace) on 2018-August-28. 
+  - [X] Installed VS Community Studio 2017 to get started with openFrameworks and ran a simple example on 2018-August-28. 
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
