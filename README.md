@@ -17,4 +17,5 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] [How oF works](https://openframeworks.cc/ofBook/chapters/how_of_works.html) finished on 2018-August-29
   - [X] Played around with a couple of more examples on 2018-August-29.
   - [X] Insanely busy to create something with this so I just re-read some of the previous readings and tweaked openCV examples on 2018-August-30
+  - [X] Played around with some particles examples (and pushing it to its 10k-20k limits to see when it lags). Reviewed some file structure paradigms + reviewed [OOP header files](https://openframeworks.cc/ofBook/chapters/OOPs!.html) on 2018-August-31.
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
