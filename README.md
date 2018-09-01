@@ -18,4 +18,5 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] Played around with a couple of more examples on 2018-August-29.
   - [X] Insanely busy to create something with this so I just re-read some of the previous readings and tweaked openCV examples on 2018-August-30
   - [X] Played around with some particles examples (and pushing it to its 10k-20k limits to see when it lags). Reviewed some file structure paradigms + reviewed [OOP header files](https://openframeworks.cc/ofBook/chapters/OOPs!.html) on 2018-August-31.
+  - [X] Had a bit too much fun playing with the vectorMathExample and reviewing the code for it. Review file structure one last time. Drawing more analogues to Processing. Read [Math: From 1D to 4D](https://openframeworks.cc/ofBook/chapters/math.html) (which is unfortunately broken but the code should serve as a good reference for vector math in oF. Finished on 2018-09-01. 
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
