@@ -22,5 +22,5 @@ Hello! This is a wip readme/progress log. I will be structuring a path for mysel
   - [X] More running examples, one last look at folder hierarchy and libs, rough idea of an interactive piece sketched out. Found this useful [cheatsheet](https://github.com/Kj1/OF_COURCE_ICON/blob/master/Openframeworks.cheat.sheet.pdf) (which might have some outdated parts). Finished on 2018-September-04. 
   - [X] Hectic week the past few days. Reviewed the reference from earlier. Started translating the mitosis/metaballs sketch (trying to stretch the limits of collision detection + meshing algorithm). Finished on 2018-September-06.
   - [X] Still translating the sketch + getting used to oF nuances. Keeping the [documentation](https://openframeworks.cc/documentation/) open at all times. Finished on 2018-September-07.
-  - [X] Seriously glad I kept a log on this so far. I was busy with work for 11 days, and spent today just reviewing previous items. Finished on 2018-September-18.
+  - [X] Seriously glad I kept a log on this so far. I was too busy with work for the past two weeks, and spent today just reviewing previous items. Finished on 2018-September-18.
 - [Cpp getting started](http://www.cplusplus.com/doc/tutorial/)
